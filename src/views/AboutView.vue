@@ -1,0 +1,14 @@
+<template>
+  <div class="about">
+    <h1>This is an about page</h1>
+  </div>
+</template>
+<style>
+.about{
+  background-image: url(https://t7.baidu.com/it/u=318887420,2894941323&fm=193&f=GIF);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 1500px;
+  height: 650px;
+}
+</style>
